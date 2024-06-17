@@ -1,0 +1,27 @@
+CREATE TABLE research_fellow(fellow_id INT AUTO_INCREMENT PRIMARY KEY,user_id INT UNIQUE KEY,
+    obtained_post_doctoral VARCHAR(255),
+    name_of_fellowship VARCHAR(50),
+    host_institution VARCHAR(255),
+    duration_from DATE,
+    duration_to VARCHAR(10),
+    FOREIGN KEY (user_id) REFERENCES users(user_id) ON DELETE CASCADE);
+
+
+CREATE TABLE research_phd_guide(guide_id INT AUTO_INCREMENT PRIMARY KEY,user_id INT UNIQUE KEY,
+    phd_guide_name VARCHAR(255),
+    phd_part_full_time VARCHAR(50),
+    phd_scholar_name VARCHAR(255),
+    phd_board_area_of_research VARCHAR(255),
+    phd_title_of_dissertation VARCHAR(255),
+    phd_status VARCHAR(255)
+    FOREIGN KEY (user_id) REFERENCES users(user_id) ON DELETE CASCADE);
+
+
+CREATE TABLE research_mphil_guide(guide_id INT AUTO_INCREMENT PRIMARY KEY,user_id INT UNIQUE KEY,
+    mphil_guide_name VARCHAR(255),
+    mphil_part_full_time VARCHAR(50),
+    mphil_scholar_name VARCHAR(255),
+    mphil_board_area_of_research VARCHAR(255),
+    mphil_title_of_dissertation VARCHAR(255),
+    mphil_status VARCHAR(255),
+    FOREIGN KEY (user_id) REFERENCES users(user_id) ON DELETE CASCADE);
