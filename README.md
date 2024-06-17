@@ -1,7 +1,7 @@
 # final-yr-project
 This is my final year project-Staff Management System for BCA Department
 
-click here: ![website](https://arunkarthik-proj.000webhostapp.com/) to see my project
+click here: [website](https://arunkarthik-proj.000webhostapp.com/) to see my project
 
 Abstract:
 
