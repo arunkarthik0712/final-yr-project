@@ -14,5 +14,3 @@ This project consist of two Categories : one is for staff’s login, which redir
 ![project screenshot](projectImg/6.png)
 ![project screenshot](projectImg/7.png)
 ![project screenshot](projectImg/8.png)
-![project screenshot](projectImg/9.png)
-![project screenshot](projectImg/10.png)
