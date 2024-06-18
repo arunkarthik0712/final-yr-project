@@ -3,10 +3,14 @@ This is my final year project-Staff Management System for BCA Department
 
 click here: [website](https://arunkarthik-proj.000webhostapp.com/) to see my project
 
+sample login credentials:
+email: example@gmail.com
+ps: 1234
+
 Abstract:
 
-The Project  is entitled as “Staff Management System” is designed for BCA department staff’s to enhance the staff profile and to keep the track of the department staff updated work. 
-This project consist of two Categories : one is for staff’s login, which redirects to another page where each and every staff member from BCA department can update their details by themselves. The other category is for user view, where every student’s and staff member can see the details of BCA department staff’s  recent research paper and their educational qualification, achievements.
+My project, entitled “Staff Management System,” was designed to assist the staff of my BCA department in enhancing their profiles and tracking their updated work. The project consists of two categories: staff login, which redirects to another page where staff members can update their details, and user view, where students and staff can see details of staff’s recent research papers, educational qualifications, and achievements. Additionally, this project has a cron mail system to remind staffs to update their profiles.
+
 
 ![project screenshot](projectImg/1.png)
 ![project screenshot](projectImg/2.png)
