@@ -13,10 +13,10 @@ My project, entitled “Staff Management System,” was designed to assist the s
 
 
 ![project screenshot](projectImg/1.png)
-![project screenshot](projectImg/2.png)
 ![project screenshot](projectImg/3.png)
 ![project screenshot](projectImg/4.png)
 ![project screenshot](projectImg/5.png)
 ![project screenshot](projectImg/6.png)
 ![project screenshot](projectImg/7.png)
+![project screenshot](projectImg/2.png)
 ![project screenshot](projectImg/8.png)
