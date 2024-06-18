@@ -32,3 +32,5 @@ My project, entitled “Staff Management System,” was designed to assist the s
 ![project screenshot](projectImg/17.png)
 ![project screenshot](projectImg/18.png)
 ![project screenshot](projectImg/19.png)
+![project screenshot](projectImg/20.png)
+![project screenshot](projectImg/21.png)
