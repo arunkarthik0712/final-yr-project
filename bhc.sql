@@ -512,7 +512,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `sname`, `uname`, `psword`, `designation`, `department`, `mobile_number`, `email`, `last_profile_update`) VALUES
-(1, 'Dr.J.James Manoharan', 'J.James Manoharan', '1234', 'Associate Professor', 'Computer Applications', '9790236903', 'arunkarthik0710@gmail.com', '2024-03-09');
+(1, 'Dr.J.James Manoharan', 'J.James Manoharan', '1234', 'Associate Professor', 'Computer Applications', '1234567890', 'example@gmail.com', '2024-03-09');
 
 -- --------------------------------------------------------
 
