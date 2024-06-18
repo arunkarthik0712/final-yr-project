@@ -15,7 +15,7 @@ My project, entitled “Staff Management System,” was designed to assist the s
 ## Front-end: 
 HTML,CSS and JavaScript
 ## Back-end:
-PHP,MySQl
+PHP,MySQL
 ## Frameworks used:
 Bootstrap
 ## libraries:
